@@ -126,6 +126,29 @@ DISCORD
 
 #discord {
   padding: 48px 0;
-  background-color: #cefeff
-  ;
+  background-color: #cefeff;
+}
+
+/* 
+
+CONTACT 
+
+*/
+
+#contact {
+  background-color: #dce9ff;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+input, textarea {
+  padding: 6px 12px;
+  margin-bottom: 24px;
+  font-size: 20px;
 }

@@ -160,7 +160,7 @@ FOOTER
 
 */  
 
-#footer {
+footer {
   background-color: #aaf5ff;
   display: flex;
   flex-direction: column;
